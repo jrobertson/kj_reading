@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'kj_reading'
-  s.version = '0.1.0'
+  s.version = '0.2.0'
   s.summary = 'A wrapper of the Kj gem. Usage: KjReading.text "mt 16, 18"'
   s.authors = ['James Robertson']
   s.files = Dir['lib/kj_reading.rb']
